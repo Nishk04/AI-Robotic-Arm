@@ -1,0 +1,7 @@
+sentence-transformers==2.2.2
+transformers==4.44.2
+numpy==1.26.4
+scikit-learn==1.5.1
+SpeechRecognition
+PyAudio
+PocketSphinx
